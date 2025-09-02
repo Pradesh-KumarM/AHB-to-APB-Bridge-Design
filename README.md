@@ -12,26 +12,6 @@ This project implements an AMBA AHB to APB Bridge in Verilog HDL.   The bridge e
 
 ---
 
-## 📂 Repository Structure
-AHB-APB-Bridge/
-│── README.md
-│── Report/
-│ └── PROJECT_REPORT_ahb2apb.docx
-│── Code/
-│ ├── ahbslaveinterface.v
-│ ├── apbcontroller.v
-│ ├── bridge_top.v
-│ ├── ahb_master.v
-│ ├── apb_interface.v
-│── Testbenches/
-│ ├── ahbslaveinterface_tb.v
-│ ├── apbcontroller_tb.v
-│ ├── bridge_top_tb.v
-│ ├── top_tb.v
-
-
----
-
 ## 🛠 Features
 - Full **Verilog HDL implementation** of AHB to APB Bridge.
 - Supports **read and write transfers**.
